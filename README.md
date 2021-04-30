@@ -6,6 +6,7 @@ my name is Aziz Mejri from Tunis, Tunisia, I'm a Full-Stack web developer that's
 - 🔭 I’m currently working on Updating my portfolio, and job hunting for a Full-Time gig
 - 🌱 I’m currently learning TypeScript, Next.js, and Java
 - 💬 If you have an issue, don't hesitate to ask me, and I'll try my best to help you!
+- 🟩 No green square on a certain day? I probably was busy on [GitLab](https://gitlab.com/SpaYco) that day
 - 📫 How to reach me:
   - LinkedIn: https://lnkd.in/dtKaKA3
   - Email: zizou.aziz101@gmail.com
