@@ -17,7 +17,9 @@ my name is Aziz Mejri from Tunis, Tunisia, I'm a Full-Stack web developer that's
   - Portfolio: https://spayco.dev/
 
 
-### 🟩 **No green square on a certain day? I probably was busy on [GitLab](https://gitlab.com/SpaYco) that day**
+## 🟩 **No green square on a certain day? I probably was busy on [GitLab](https://gitlab.com/SpaYco) that day**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spayco&show_icons=true&theme=radical&layout=compact)](https://github.com/defoebrand/github-readme-stats)
 
-[![SpaYco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spayco&show_icons=true&theme=radical)](https://github.com/defoebrand/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spayco&show_icons=true&theme=radical&layout=compact)](https://github.com/defoebrand/github-readme-stats)
+[![SpaYco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spayco&show_icons=true&theme=radical)](https://github.com/defoebrand/github-readme-stats) 
+
