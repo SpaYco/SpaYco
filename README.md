@@ -13,7 +13,7 @@ my name is Aziz Mejri from Tunis, Tunisia, I'm a Full-Stack web developer that's
   - Email: zizou.aziz101@gmail.com
   - Twitter: [@iSpaYco](https://twitter.com/iSpaYco)
 - ℹ️ Checkout my: 
-  - Resume: https://lnkd.in/dURi4jB
+  - Resume: https://docs.google.com/document/d/1lYq0Kb50TujzJzDWGobIchRI17JMnAiZMF9OBQgNU68
   - Portfolio: https://spayco.dev/
 
 
