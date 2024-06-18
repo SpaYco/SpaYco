@@ -5,8 +5,7 @@ my name is Aziz Mejri from Tunis, Tunisia, I'm a Full-Stack web developer that's
 
 
 
-- 🔭 I’m currently working on Updating my portfolio, and job hunting for a Full-Time gig
-- 🌱 I’m currently learning TypeScript, Next.js, and Java
+- 🔭 I’m currently working on AI features, and implementing new products.
 - 💬 If you have an issue, don't hesitate to ask me, and I'll try my best to help you!
 - 📫 How to reach me:
   - LinkedIn: https://lnkd.in/dtKaKA3
