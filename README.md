@@ -15,7 +15,3 @@ my name is Aziz Mejri from Tunis, Tunisia, I'm a Full-Stack web developer that's
 - ℹ️ Checkout my: 
   - Resume: https://docs.google.com/document/d/1lYq0Kb50TujzJzDWGobIchRI17JMnAiZMF9OBQgNU68
   - Portfolio: https://spayco.dev/
-
-
-![SpaYco's GitHub stats](https://github-stats-hqvv8wa3w-spayco.vercel.app/api?username=Spayco&show_icons=true&theme=radical)
-![Top Langs](https://github-stats-hqvv8wa3w-spayco.vercel.app/api/top-langs/?username=Spayco&show_icons=true&theme=radical&layout=compact)
