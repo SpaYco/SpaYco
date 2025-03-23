@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-my name is Aziz Mejri from Tunis, Tunisia, I'm a Full-Stack web developer that's leaning more toward Front-End, over the last year, I've used my skills to make lots of projects and helping others with their bugs that they face during studying with me on Microverse (a remote full-stack development program with an emphasis on pair programming).
-
-
-
+my name is Aziz Mejri from Tunis, Tunisia, I'm a Senior Full-Stack Developer, over the last year, I've used my skills to build and help build production ready features.
 
 - 🔭 I’m currently working on AI features, and implementing new products.
 - 💬 If you have an issue, don't hesitate to ask me, and I'll try my best to help you!
