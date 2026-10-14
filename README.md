@@ -19,4 +19,4 @@ Ruby · Rails · TypeScript · JavaScript · React · Next.js · Go · PostgreSQ
 
 ## Find me
 
-[Portfolio](https://spayco.dev/) · [Email](mailto:aziz@mejri.dev) · [LinkedIn](https://www.linkedin.com/in/spayco/) · [Twitter / @SpaYco](https://x.com/SpaYco)
+[Portfolio](https://spayco.dev/) · [Email](mailto:aziz@mejri.dev) · [LinkedIn](https://www.linkedin.com/in/spayco/) · [Twitter](https://x.com/SpaYco)
