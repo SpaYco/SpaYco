@@ -1,6 +1,6 @@
 # Aziz Mejri
 
-Lead developer · Tunis, Tunisia
+Product engineer · Tunis, Tunisia
 
 I build web applications, real-time interfaces, and the backend systems behind them. Most of my day-to-day work is in Ruby, TypeScript, and Go.
 
