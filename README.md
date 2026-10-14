@@ -1,13 +1,22 @@
-### Hi there 👋
+# Aziz Mejri
 
-my name is Aziz Mejri from Tunis, Tunisia, I'm a Lead Developer, over the past 5 years, I've used my skills to build and help build production ready features.
+Lead developer · Tunis, Tunisia
 
-- 🔭 I’m currently working on AI features, and implementing new products.
-- 💬 If you have an issue, don't hesitate to ask me, and I'll try my best to help you!
-- 📫 How to reach me:
-  - LinkedIn: https://lnkd.in/dtKaKA3
-  - Email: aziz@mejri.dev
-  - Twitter: [@iSpaYco](https://twitter.com/iSpaYco)
-- ℹ️ Checkout my: 
-  - Resume: https://docs.google.com/document/d/1lYq0Kb50TujzJzDWGobIchRI17JMnAiZMF9OBQgNU68
-  - Portfolio: https://spayco.dev/
+I build web applications, real-time interfaces, and the backend systems behind them. Most of my day-to-day work is in Ruby, TypeScript, and Go.
+
+I like following a feature all the way through: the interface someone uses, the data it relies on, and what happens when something goes wrong.
+
+## What I build
+
+- **Real-time experiences:** collaborative interfaces, WebSockets, and shared state.
+- **AI integrations:** connecting intelligence to useful information, live activity, and product workflows.
+- **Product infrastructure:** APIs, integrations, background jobs, and content-sync workflows.
+- **Reliable web applications:** improving mature products while preserving the workflows people depend on.
+
+## Tools I work with
+
+Ruby · Rails · TypeScript · JavaScript · React · Next.js · Go · PostgreSQL
+
+## Find me
+
+[Portfolio](https://spayco.dev/) · [Email](mailto:aziz@mejri.dev) · [LinkedIn](https://www.linkedin.com/in/spayco/) · [Twitter](https://twitter.com/iSpaYco)
